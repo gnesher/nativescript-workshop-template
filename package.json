@@ -1,23 +1,6 @@
 {
-  "description": "NativeScript Application",
-  "license": "SEE LICENSE IN <your-license-filename>",
+  "description": "Nativescript Workshop Template",
+  "license": "MIT",
   "readme": "NativeScript Application",
-  "repository": "<fill-your-repository-here>",
-  "nativescript": {
-    "id": "org.nativescript.quizmonkey",
-    "tns-android": {
-      "version": "4.1.3"
-    }
-  },
-  "dependencies": {
-    "nativescript-theme-core": "~1.0.4",
-    "tns-core-modules": "4.1.0"
-  },
-  "devDependencies": {
-    "babel-traverse": "6.4.5",
-    "babel-types": "6.4.5",
-    "babylon": "6.4.5",
-    "lazy": "1.0.11",
-    "nativescript-dev-webpack": "~0.14.0"
-  }
+  "repository": "https://github.com/gnesher/nativescript-workshop-template"
 }
